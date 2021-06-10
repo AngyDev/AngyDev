@@ -4,7 +4,7 @@
 
 ##### NOW 
 
-- 🌱 I'm currently studying front-end language like HTML, CSS and JavaScript
+- 🌱 I'm currently studying front-end language like HTML, CSS and JavaScript and [React](https://reactjs.org/) library
 - :bug: I'm improving my skills with the support of [Trello](https://trello.com/), [Toggl](https://toggl.com/), [Figma](https://www.figma.com/) and the last but not least [GitHub](https://github.com/)
 - 👯 I’m part of the [TomorrowDevs](https://www.tomorrowdevs.com/) community
 
