@@ -17,7 +17,7 @@
 - 🔭 I'm currently working at [**AOU-Careggi**](https://www.aou-careggi.toscana.it/internet/index.php?lang=it)
 - :wink: I use daily: `.html`, `.css`, `.js` 
 - :camera: I love photography and I partner in a professional photography business. If you want to see more about it look on instagram account [@florentiaminor2020](https://www.instagram.com/florentiaminor2020/)
-- :earth_africa: I'm collaborating in a ***green*** project about waste. If you want to know more follow the [:banana:](https://www.instagram.com/flashtrash__/)
+- :earth_africa: I'm collaborating in a ***green*** project about waste. If you want to know more about this project follow the [:banana:](https://www.instagram.com/flashtrash__/)
 
 ##### GET IN TOUCH
 
