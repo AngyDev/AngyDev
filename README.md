@@ -19,8 +19,12 @@
 - :earth_africa: I'm collaborating in a ***green*** project about waste. If you want to know more about this project follow the [:banana:](https://www.instagram.com/flashtrash__/)
 
 ##### GITHUB STATS
-![](https://github-readme-stats.vercel.app/api?username=AngyDev&theme=flag-india&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngyDev&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngyDev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngyDev&langs_count=3&hide_title=true&hide_border=true" />
+</a>
 
 ##### GET IN TOUCH
 
