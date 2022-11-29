@@ -7,10 +7,7 @@
 - 🌱 I'm currently studying front-end language like HTML, CSS, JavaScript and [React](https://reactjs.org/) library
 - :bug: I'm improving my skills with the support of [Trello](https://trello.com/), [Toggl](https://toggl.com/), [Figma](https://www.figma.com/) and the last but not least [GitHub](https://github.com/)
 - 👯 I’m part of the [TomorrowDevs](https://www.tomorrowdevs.com/) and [Schrodinger Hat](https://www.schrodinger-hat.it/) community
-
-##### FUTURE
-
-- :woman_technologist: My goal is to be able to develop very cool web apps with 3D elements using a library like [Three.js](https://github.com/mrdoob/three.js/)
+- :writing_hand: I like to contribute to open-source projects
 
 ##### BIO
 
