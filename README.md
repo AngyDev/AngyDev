@@ -4,15 +4,15 @@
 
 ##### NOW 
 
-- 🌱 I'm currently studying front-end language like HTML, CSS, JavaScript and [React](https://reactjs.org/) library
-- :bug: I'm improving my skills with the support of [Trello](https://trello.com/), [Toggl](https://toggl.com/), [Figma](https://www.figma.com/) and the last but not least [GitHub](https://github.com/)
+- 🌱 I'm currently studying [React](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Three.js](https://threejs.org/)
+- :bug: I use [Trello](https://trello.com/), [Toggl](https://toggl.com/), [Figma](https://www.figma.com/) and [GitHub](https://github.com/) to organize my projects
 - 👯 I’m part of the [TomorrowDevs](https://www.tomorrowdevs.com/) and [Schrodinger Hat](https://www.schrodinger-hat.it/) community
 - :writing_hand: I like to contribute to open-source projects
 
 ##### BIO
 
-- 🔭 I'm currently working at [**AOU-Careggi**](https://www.aou-careggi.toscana.it/internet/index.php?lang=it)
-- :camera: I love photography and I partner in a professional photography business. If you want to see more about it look on instagram account [@florentiaminor2020](https://www.instagram.com/florentiaminor2020/)
+- 🔭 I'm currently working at [**AOU-Careggi**](https://www.aou-careggi.toscana.it/internet/index.php?lang=it) on the [Precise](https://github.com/AngyDev/custom-3D) project
+- :camera: I love photography. If you want to see some of my photos check out my instagram account [@abusatophotographer](https://www.instagram.com/abusatophotographer/)
 - :earth_africa: I'm collaborating in a ***green*** project about waste. If you want to know more about this project follow the [:banana:](https://www.instagram.com/flashtrash__/)
 
 ##### GITHUB STATS
