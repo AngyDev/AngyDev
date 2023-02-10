@@ -30,4 +30,5 @@
 - LinkedIn: https://www.linkedin.com/in/angela-busato-91145ab1
 - Twitter: https://twitter.com/angela_busato
 - Instagram: https://www.instagram.com/abusatophotographer/?hl=it
+- Blog: www.angydev.eu
 - E-mail: busato.angela@gmail.com
