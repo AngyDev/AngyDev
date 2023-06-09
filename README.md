@@ -18,11 +18,13 @@
 
 ##### GITHUB STATS
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngyDev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngyDev&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngyDev&langs_count=3&hide_title=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngyDev&hide_progress=true&&include_all_commits=true&hide_border=true" />
 </a>
+
 
 ##### GET IN TOUCH
 
