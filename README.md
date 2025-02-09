@@ -11,9 +11,9 @@
 ##### BIO
 
 - 🔭 I developed the [Precise](https://github.com/AngyDev/custom-3D) project with [**AOU-Careggi**](https://www.aou-careggi.toscana.it/internet/index.php?lang=it)
+- 📓 If you want to know more about me read my blog [angydev](www.angydev.eu)
 - :camera: I love photography. If you want to see some of my photos check out my instagram account [@abusatophotographer](https://www.instagram.com/abusatophotographer/)
 - :earth_africa: I'm collaborating in a ***green*** project about waste. If you want to know more about this project follow the [:banana:](https://www.instagram.com/flashtrash__/)
-- 📓 If you want to know more about me read my blog [angydev](www.angydev.eu)
 
 ##### GITHUB STATS
 <a href="https://github.com/anuraghazra/github-readme-stats">
