@@ -5,7 +5,6 @@
 ##### NOW 
 
 - 🌱 I'm currently studying [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Three.js](https://threejs.org/) and [Node.js](https://nodejs.org/en)
-- :bug: I use [Trello](https://trello.com/), [Toggl](https://toggl.com/), [Figma](https://www.figma.com/) and [GitHub](https://github.com/) to organize my projects
 - 👯 I’m part of [Schrodinger Hat](https://www.schrodinger-hat.it/) community
 - :writing_hand: I like to contribute to open-source projects
 
