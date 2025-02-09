@@ -1,6 +1,6 @@
 # Hi, I'm Angela :wave: :woman_technologist:
 
-#### I'm a web app developer working in Florence, Italy.
+#### I'm a web app developer working in London, UK.
 
 ##### NOW 
 
